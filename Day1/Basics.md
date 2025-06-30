@@ -41,6 +41,18 @@
 | **Pulumi**         | Declarative | Uses real languages |
 | **CloudFormation** | Declarative | AWS only            |
 
+**Declarative vs Imperative IaC**
+
+| Style           | Description                                                 | Example Tool           |
+| --------------- | ----------------------------------------------------------- | ---------------------- |
+| **Declarative** | You define *what* you want, and the tool figures out *how*. | Terraform, Bicep, ARM  |
+| **Imperative**  | You define *how* to build infrastructure step-by-step.      | Ansible, Shell Scripts |
+
+
+**Declarative**: “I want a pizza with mushrooms and olives.” (The chef figures out how.)
+
+**Imperative**: “First roll the dough, then add sauce, then mushrooms...” (You give step-by-step instructions.)
+
 
 
 ##  differences between Terraform, Bicep, and YAML
