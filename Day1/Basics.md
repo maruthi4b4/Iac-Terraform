@@ -13,14 +13,14 @@
 
   **💡 Why IaC is Important**
 
-  | Benefit                       | Explanation                                          |
-| -----------------------------  |  ---------------------------------------------------  |
-| 🔁 **Repeatable**              | Same code = same infrastructure every time           |
-| 📜 **Version-controlled**      | Store in Git like app code; track changes            |
-| ⚡ **Faster deployments**      | Deploy full environments in minutes                  |
-| 🧪 **Testable**                | Test infrastructure in pipelines (CI/CD)             |
-| 🚫 **Fewer errors**            | No more manual clicking/mistakes in UI               |
-| 👨‍👩‍👧‍👦 **Team-friendly**           | Share code with others and review via pull requests  |
+| Benefit                       | Explanation                                         |
+| ----------------------------- | --------------------------------------------------- |
+| 🔁 **Repeatable**             | Same code = same infrastructure every time          |
+| 📜 **Version-controlled**     | Store in Git like app code; track changes           |
+| ⚡ **Faster deployments**      | Deploy full environments in minutes                 |
+| 🧪 **Testable**               | Test infrastructure in pipelines (CI/CD)            |
+| 🚫 **Fewer errors**           | No more manual clicking/mistakes in UI              |
+| 👨‍👩‍👧‍👦 **Team-friendly** | Share code with others and review via pull requests |
 
   
 - **🔄 IaC Lifecycle Example**
