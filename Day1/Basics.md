@@ -24,11 +24,12 @@
 
   
 - **🔄 IaC Lifecycle Example**
-✍️ Write code (e.g., Terraform .tf files)
-🧪 Review/test it (maybe in CI/CD)
-🚀 Deploy it (e.g., terraform apply)
-🧹 Update/change it by modifying code
-❌ Destroy when done (e.g., terraform destroy)
+  
+- ✍️ Write code (e.g., Terraform .tf files)
+- 🧪 Review/test it (maybe in CI/CD)
+- 🚀 Deploy it (e.g., terraform apply)
+- 🧹 Update/change it by modifying code
+- ❌ Destroy when done (e.g., terraform destroy)
 
 **📂 Example IaC Tools**
 
