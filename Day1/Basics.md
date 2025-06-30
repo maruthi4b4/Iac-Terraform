@@ -1,4 +1,4 @@
-# Understand the Basics (Hour-by-Hour Breakdown):
+# Understand the IaC Basics:
 
 ## What is Cloud Computing?
 - Cloud Computing is the delivery of computing services over the internet — instead of owning and managing physical servers and infrastructure, you use someone else's (like Microsoft, Amazon, or Google).
