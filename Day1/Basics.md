@@ -4,7 +4,7 @@
 - Cloud Computing is the delivery of computing services over the internet — instead of owning and managing physical servers and infrastructure, you use someone else's (like Microsoft, Amazon, or Google).
 
 - ✅ You rent servers, storage, and services over the internet, and pay only for what you use
-- 
+  
 ## What is Infrastructure as Code (IaC)?
 
 - Infrastructure as Code (IaC) is the practice of managing and provisioning IT infrastructure using code, rather than manually setting things up via cloud portals or command-line tools.
